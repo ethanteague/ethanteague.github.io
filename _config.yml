@@ -67,5 +67,5 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-  <strong>General:</strong>
-I have been a Drupal developer for 10 years, and I am comfortable with both server and client side development. I am a full stack, DevOps developer: Jenkins, Behat, server optimization and deployment processes are in my toolbelt. Drupal module development, theming, and optimization are also skills I possess. Experienced with Node frameworks and tools.
+  <strong>General:</strong> 
+  I have been a Drupal developer for 10 years, and I am comfortable with both server and client side development. I am a full stack, DevOps developer: Jenkins, Behat, server optimization and deployment processes are in my toolbelt. Drupal module development, theming, and optimization are also skills I possess. Experienced with Node frameworks and tools.
